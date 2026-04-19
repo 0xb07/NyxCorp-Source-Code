@@ -2,10 +2,10 @@
 Developer - Developer only 
 
 =====================================
-PROJECT: Centralized File Share Portal for Nyx-corp (Source Code Repository)
+# PROJECT: Centralized File Share Portal for Nyx-corp (Source Code Repository)
 
 
-*** URGENT NOTE FROM DEV-1 (0xb07) ***
+## URGENT NOTE FROM DEV-1 (0xb07) 
 
 Hey team,
 
