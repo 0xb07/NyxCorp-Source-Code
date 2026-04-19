@@ -1,10 +1,9 @@
 # NyxCorp-Source-Code
 Developer - Developer only 
 
-=============================================================================
-PROJECT: Centralized File Share Portal (Source Code Repository)
-VERSION: 0.9.5-BETA (DO NOT DEPLOY TO PRODUCTION)
-=============================================================================
+=====================================
+PROJECT: Centralized File Share Portal for Nyx-corp (Source Code Repository)
+
 
 *** URGENT NOTE FROM DEV-1 (0xb07) ***
 
@@ -21,4 +20,4 @@ Please divide these tasks up and get them patched. Again, DO NOT put this live u
 
 Thanks,
 0xb07 (Dev-1)
-=============================================================================
+=====================================
