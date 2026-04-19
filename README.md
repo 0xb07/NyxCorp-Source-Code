@@ -1,4 +1,4 @@
-# NyxCorp-Source-Code
+# PLEASE READ THIS FIRST!!
 Developer - Developer only 
 
 ---
